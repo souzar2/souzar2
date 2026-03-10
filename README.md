@@ -16,7 +16,7 @@ Sou desenvolvedor web, graduado em Ciência da Computação na Universidade Fede
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/arthur-souza-064a44197/)
-- [Email](arthursilvasouza98@gmail.com)
+- Email: arthursilvasouza98@gmail.com
 
 
 ## 🛠️ Tecnologias
