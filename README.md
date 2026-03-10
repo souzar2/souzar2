@@ -9,7 +9,7 @@ Sou desenvolvedor web, graduado em Ciência da Computação na Universidade Fede
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzar2&layout=compact&langs_count=6&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzar2&layout=compact&langs_count=6&theme=radical&title=Linguagens%20mais%20usadas)
 
 <!-- ## 📊 Estatísticas
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&theme=radical) -->
