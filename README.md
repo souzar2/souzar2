@@ -7,8 +7,12 @@ Sou desenvolvedor web, graduado em Ciência da Computação na Universidade Fede
 - **Linguagens:** TypeScript, JavaScript, Python
 - **Frameworks:** React, Node.js
 
-## 📊 Estatísticas
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&theme=radical)
+## 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=radical)
+
+<!-- ## 📊 Estatísticas
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&theme=radical) -->
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/arthur-souza-064a44197/)
