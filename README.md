@@ -28,7 +28,6 @@ Sou desenvolvedor web, graduado em Ciência da Computação na Universidade Fede
 **Front-end**
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
 
 **Linguagens**
