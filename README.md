@@ -3,9 +3,9 @@
 ## 🚀 Sobre mim
 Sou desenvolvedor web, graduado em Ciência da Computação na Universidade Federal do Tocantins, e me especializando em Ciência de Dados. Atualmente trabalho na Secretaria de Educação do Tocantins.
 
-## 🛠️ Tecnologias
-- **Linguagens:** TypeScript, JavaScript, Python
-- **Frameworks:** React, Node.js
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/arthur-souza-064a44197/)
+- Email: arthursilvasouza98@gmail.com
 
 ## 📊 Linguagens mais usadas
 
@@ -13,11 +13,6 @@ Sou desenvolvedor web, graduado em Ciência da Computação na Universidade Fede
 
 <!-- ## 📊 Estatísticas
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&theme=radical) -->
-
-## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/arthur-souza-064a44197/)
-- Email: arthursilvasouza98@gmail.com
-
 
 ## 🛠️ Tecnologias
 
