@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou o Arthur!
 
-## 🚀 Sobre mim
 Sou desenvolvedor web, graduado em Ciência da Computação na Universidade Federal do Tocantins, e me especializando em Ciência de Dados. Atualmente trabalho na Secretaria de Educação do Tocantins.
 
 ## 📫 Contato
