@@ -2,11 +2,11 @@
 
 Sou desenvolvedor web, bacharel em Ciência da Computação na Universidade Federal do Tocantins, trabalho como desenvolvedor web desde novembro de 2023. Atualmente estou me especializando em Ciência de Dados e trabalho na Secretaria de Educação do Tocantins.
 
-## 📫 Contato
+## Contato
 - [LinkedIn](https://www.linkedin.com/in/arthur-souza-064a44197/)
 - Email: arthursilvasouza98@gmail.com
 
-## 📊 Linguagens mais usadas
+## Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzar2&layout=compact&langs_count=6&theme=radical&hide_title=true)
 
