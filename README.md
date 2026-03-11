@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Arthur!
 
-Sou desenvolvedor web, graduado em Ciência da Computação na Universidade Federal do Tocantins, e me especializando em Ciência de Dados. Atualmente trabalho na Secretaria de Educação do Tocantins.
+Sou desenvolvedor web, bacharel em Ciência da Computação na Universidade Federal do Tocantins, e me especializando em Ciência de Dados. Atualmente trabalho na Secretaria de Educação do Tocantins.
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/arthur-souza-064a44197/)
