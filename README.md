@@ -8,7 +8,6 @@ Sou desenvolvedor web, bacharel em Ciência da Computação na Universidade Fede
 
 <!-- 
 ## Linguagens mais usadas
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzar2&layout=compact&langs_count=6&theme=radical&hide_title=true)
 
 ## 📊 Estatísticas
