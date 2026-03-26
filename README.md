@@ -5,6 +5,8 @@ Sou desenvolvedor web, bacharel em Ciência da Computação na Universidade Fede
 ## Contato 
 - [LinkedIn](https://www.linkedin.com/in/arthurssouza1)
 - Email: arthursilvasouza98@gmail.com
+
+
 <!-- 
 ## Linguagens mais usadas
 
